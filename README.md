@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on building world class websites
 - 📫 How to reach me @crescentforeal on IG
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Anime, Video Games
 
 <!---
