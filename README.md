@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on building world class websites
-- 📫 How to reach me @crescentforeal on IG
+- 📫 How to reach me nasarafriday247@gmail.com
 - ⚡ Fun fact: Anime, Video Games
 
 <!---
