@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Crescent4real
 - 👀 I’m interested in Full-Stack Development
-- 🌱 I’m currently Building, and deploying
+- 🌱 I’m currently Building, and deploying projects
 - 📫 How to reach me nasarafriday247@gmail.com
 - ⚡ Fun fact: Anime, Video Games, Football
 
