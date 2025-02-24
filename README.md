@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Crescent4real
 - 👀 I’m interested in Full-Stack Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on building world web devs
+- 🌱 I’m currently Building, and deploying
 - 📫 How to reach me nasarafriday247@gmail.com
 - ⚡ Fun fact: Anime, Video Games, Football
 
