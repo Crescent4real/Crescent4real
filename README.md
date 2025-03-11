@@ -2,4 +2,4 @@
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently Building, and deploying projects
 - 📫 How to reach me nasarafriday247@gmail.com
-- ⚡ Fun fact: Anime, Video Games, Football, Coding.
+- ⚡ Fun fact: Anime, Video Games, Football, Coding, Reading books.
